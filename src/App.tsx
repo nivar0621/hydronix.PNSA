@@ -53,7 +53,7 @@ function App() {
             className="flex items-center space-x-3"
           >
             <img 
-              src="https://i.ibb.co/VVc9W4k/logo-politecnico.png" 
+              src="img/Diseño_sin_título-removebg-preview.png" 
               alt="Hydronix Logo" 
               className="w-12 h-12 object-contain"
             />
