@@ -53,7 +53,7 @@ function App() {
             className="flex items-center space-x-3"
           >
             <img 
-              src = "img/Imagen de WhatsApp 2025-04-14 a las 19.29.17_42147633.jpg"
+              src = "img/WhatsApp_Image_2024-11-06_at_11.09.57-removebg-preview.png"
               alt="Hydronix Logo" 
               className="w-12 h-12 object-contain"
             />
