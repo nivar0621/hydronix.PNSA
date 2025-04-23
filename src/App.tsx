@@ -52,7 +52,7 @@ function App() {
             animate={{ opacity: 1, x: 0 }}
             className="flex items-center space-x-3"
           >
-            <Calculator className="w-8 h-8 text-blue-600" />
+            <Calculator className="w-8 h-8 text-Green-600" />
             <span className="text-xl font-bold text-gray-800">Hydronix</span>
           </motion.div>
         </div>
