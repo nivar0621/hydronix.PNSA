@@ -57,7 +57,7 @@ function App() {
               alt="Hydronix Logo" 
               className="w-12 h-12 object-contain"
             />
-            <span className="text-xl font-bold text-gray-800">Hydronix</span>
+            <span className="text-xl font-bold text-gray-800">brainiel</span>
           </motion.div>
         </div>
       </nav>
