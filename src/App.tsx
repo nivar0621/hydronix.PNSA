@@ -52,11 +52,7 @@ function App() {
             animate={{ opacity: 1, x: 0 }}
             className="flex items-center space-x-3"
           >
-            <img 
-              src = "img/WhatsApp_Image_2024-11-06_at_11.09.57-removebg-preview.png"
-              alt="Hydronix Logo" 
-              className="w-12 h-12 object-contain"
-            />
+            <Calculator className="w-8 h-8 text-blue-600" />
             <span className="text-xl font-bold text-gray-800">Hydronix</span>
           </motion.div>
         </div>
